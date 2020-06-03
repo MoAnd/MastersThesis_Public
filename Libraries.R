@@ -42,5 +42,6 @@ pacman::p_load(parallel)
 pacman::p_load(foreach)
 pacman::p_load(doParallel)
 pacman::p_load(tictoc)
+pacman::p_load(beepr)
 
 
