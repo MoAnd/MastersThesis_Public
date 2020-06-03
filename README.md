@@ -1,5 +1,5 @@
 # Master's Thesis - Public Repo
-In this repository I have shared some of the scripts used in my master's thesis. 
+In this repository I have shared some of the scripts used in my master's thesis: ***Risk-neutral Derivation of In-play Bet Prices by Modeling Football Matches:*** *A Weibull Point Process Approach*.
 
 ### Brief Introduction to the Folder Structure
 - [*Football Characteristics*](https://github.com/MoAnd/MastersThesis_Public/tree/master/Football%20Characteristics) includes scripts used in the statistical analysis of football goals (Chapter 3).
